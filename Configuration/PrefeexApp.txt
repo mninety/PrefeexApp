@@ -1,0 +1,12 @@
+Url=http://0.0.0.0:4723/wd/hub;
+isGUI=1;
+isWindows=1;
+isEmulator=2;
+EndUser=t@p.com;
+euPassword=aaaaa;
+DEVICE_NAME=Redmi;
+PLATFORM_VERSION=9;
+appPackage=com.prefeex.android;
+appActivity=com.prefeex.android.views.launcher.SplashActivity;
+
+
